@@ -1,6 +1,10 @@
 #header {
   background-color: #dfe1e8;
 }
+#headername {
+  background-color: #0084b4;
+  color: aliceblue;
+}
 #details{
   background-color: #f7f7f9;
 }
